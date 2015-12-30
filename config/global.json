@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "latest"
+  },
+  "applications": {
+    "MadAngles.co": {
+      "applicationId": "u48LtxiFtH2J8HzYeu2UVpNjssnROmmGuf0s3JIs",
+      "masterKey": "PMoUZregpR6xQS2S8d4UfhWCPX3Qf6sWitdllfw4"
+    },
+    "_default": {
+      "link": "MadAngles.co"
+    }
+  }
+}
